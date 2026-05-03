@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package session.v1;
 
-option go_package = "github.com/YOUR_USERNAME/parking-proto/gen/session/v1;sessionv1";
+option go_package = "github.com/nalrematvonesah/parking-proto/gen/parking/v1;parkingv1";
 
 service SessionService {
   rpc StartSession(StartRequest) returns (SessionResponse);

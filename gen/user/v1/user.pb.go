@@ -4,7 +4,7 @@
 // 	protoc        v3.21.12
 // source: user/v1/user.proto
 
-package userv1
+package parkingv1
 
 import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
@@ -371,7 +371,7 @@ const file_user_v1_user_proto_rawDesc = "" +
 	"\x05Login\x12\x15.user.v1.LoginRequest\x1a\x15.user.v1.UserResponse\x128\n" +
 	"\n" +
 	"AddVehicle\x12\x1a.user.v1.AddVehicleRequest\x1a\x0e.user.v1.Empty\x129\n" +
-	"\vGetVehicles\x12\x14.user.v1.UserRequest\x1a\x14.user.v1.VehicleListB;Z9github.com/YOUR_USERNAME/parking-proto/gen/user/v1;userv1b\x06proto3"
+	"\vGetVehicles\x12\x14.user.v1.UserRequest\x1a\x14.user.v1.VehicleListBCZAgithub.com/nalrematvonesah/parking-proto/gen/parking/v1;parkingv1b\x06proto3"
 
 var (
 	file_user_v1_user_proto_rawDescOnce sync.Once

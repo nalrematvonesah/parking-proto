@@ -4,7 +4,7 @@
 // - protoc             v3.21.12
 // source: session/v1/session.proto
 
-package sessionv1
+package parkingv1
 
 import (
 	context "context"

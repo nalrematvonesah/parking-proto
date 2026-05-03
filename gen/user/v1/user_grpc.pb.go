@@ -4,7 +4,7 @@
 // - protoc             v3.21.12
 // source: user/v1/user.proto
 
-package userv1
+package parkingv1
 
 import (
 	context "context"

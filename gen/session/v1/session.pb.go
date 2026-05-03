@@ -4,7 +4,7 @@
 // 	protoc        v3.21.12
 // source: session/v1/session.proto
 
-package sessionv1
+package parkingv1
 
 import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
@@ -296,7 +296,7 @@ const file_session_v1_session_proto_rawDesc = "" +
 	"EndSession\x12\x16.session.v1.EndRequest\x1a\x1b.session.v1.SessionResponse\x12E\n" +
 	"\n" +
 	"GetSession\x12\x1a.session.v1.SessionRequest\x1a\x1b.session.v1.SessionResponse\x12G\n" +
-	"\x0eCalculatePrice\x12\x1a.session.v1.SessionRequest\x1a\x19.session.v1.PriceResponseBAZ?github.com/YOUR_USERNAME/parking-proto/gen/session/v1;sessionv1b\x06proto3"
+	"\x0eCalculatePrice\x12\x1a.session.v1.SessionRequest\x1a\x19.session.v1.PriceResponseBCZAgithub.com/nalrematvonesah/parking-proto/gen/parking/v1;parkingv1b\x06proto3"
 
 var (
 	file_session_v1_session_proto_rawDescOnce sync.Once

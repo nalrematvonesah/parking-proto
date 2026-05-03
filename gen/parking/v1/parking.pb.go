@@ -253,7 +253,7 @@ const file_parking_v1_parking_proto_rawDesc = "" +
 	"\n" +
 	"AssignSlot\x12\x1d.parking.v1.AssignSlotRequest\x1a\x1e.parking.v1.AssignSlotResponse\x12@\n" +
 	"\vReleaseSlot\x12\x1e.parking.v1.ReleaseSlotRequest\x1a\x11.parking.v1.Empty\x12J\n" +
-	"\x11GetAvailableSlots\x12\x11.parking.v1.Empty\x1a\".parking.v1.AvailableSlotsResponseBAZ?github.com/YOUR_USERNAME/parking-proto/gen/parking/v1;parkingv1b\x06proto3"
+	"\x11GetAvailableSlots\x12\x11.parking.v1.Empty\x1a\".parking.v1.AvailableSlotsResponseBCZAgithub.com/nalrematvonesah/parking-proto/gen/parking/v1;parkingv1b\x06proto3"
 
 var (
 	file_parking_v1_parking_proto_rawDescOnce sync.Once
